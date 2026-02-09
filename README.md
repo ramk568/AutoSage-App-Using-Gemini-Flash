@@ -17,3 +17,7 @@ AutoSage is a Generative AI–powered vehicle information application built usin
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
+
+
+Important:
+The Google API key used in this project has been removed and kept private to ensure secure authentication and to prevent unauthorized access or misuse.
